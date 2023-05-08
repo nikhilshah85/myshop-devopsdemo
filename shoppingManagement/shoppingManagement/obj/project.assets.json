@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 11 - DevOps CI\\shoppingManagement\\shoppingManagement\\shoppingManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\myshop-devopsdemo\\shoppingManagement\\shoppingManagement\\shoppingManagement.csproj",
       "projectName": "shoppingManagement",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 11 - DevOps CI\\shoppingManagement\\shoppingManagement\\shoppingManagement.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\myshop-devopsdemo\\shoppingManagement\\shoppingManagement\\shoppingManagement.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 11 - DevOps CI\\shoppingManagement\\shoppingManagement\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\myshop-devopsdemo\\shoppingManagement\\shoppingManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

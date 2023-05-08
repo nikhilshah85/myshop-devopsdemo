@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pl6vEtHTUR8I/WAMePRcp6+J1EeIufeO66n6/mTxHIDjLCiWzmXY2cuFpnK/sGYC+5qMxI7qXej2nn6Zjyh/pA==",
+  "dgSpecHash": "af86llL0nKV8jWo7nk5pSiK0CKrHcERr2Lg3zWbf0itJuF7GERMb8YU2yThLMrJJAwt0+fUMRR9ve7WmhafIIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 11 - DevOps CI\\shoppingManagement\\shoppingManagement\\shoppingManagement.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\myshop-devopsdemo\\shoppingManagement\\shoppingManagement\\shoppingManagement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
